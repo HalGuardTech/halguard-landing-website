@@ -21,7 +21,7 @@ const TeamPage = () => {
     {
       name: "Shramish Kafle",
       role: "Founder & CEO",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      image: "images/profile-shramish.jpeg",
       bio: `With over five years of hands-on experience in software development, artificial intelligence, machine learning, and DevOps, Shramish leads the company with a deep technical foundation and a forward-thinking vision. His work spans building scalable software systems to pioneering AI-driven solutions. Passionate about AI security, Shramish is dedicated to developing cutting-edge products that ensure safe and responsible AI deployment. He is also actively engaged in research on modern generative algorithms, continuously exploring the future of intelligent systems. As CEO, he combines strategic leadership with technical excellence to drive innovation and build a company rooted in curiosity, impact, and trust.`,
       linkedin: "www.linkedin.com/in/shramish-kafle-759571198"
     },
