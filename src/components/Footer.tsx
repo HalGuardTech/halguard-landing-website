@@ -135,7 +135,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © {currentYear} HalGuard GmbH. All rights reserved.
+              © {currentYear} HalGuard UG I.Gr. All rights reserved.
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-400">
               <Link to="/privacy-policy" className="hover:text-white transition-colors duration-200">Datenschutz</Link>
