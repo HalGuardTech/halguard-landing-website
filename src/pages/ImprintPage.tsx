@@ -50,44 +50,17 @@ const ImprintPage = () => {
             
             <p>
               HalGuard GmbH<br />
-              Nurnberger Straße 52<br />
+              Nurnberger Straße 51<br />
               67227 Frankenthal<br />
               Germany
             </p>
-            
-            <h3>Commercial Register</h3>
-            <p>
-              Registered in the Commercial Register.<br />
-              Registration court: Amtsgericht Ludwigshafen am Rhein<br />
-              Registration number: HRB 12345
-            </p>
-            
-            <h3>VAT ID</h3>
-            <p>
-              Sales tax identification number according to § 27 a of the Sales Tax Law:<br />
-              DE 123456789
-            </p>
-            
+          
             <h2>Contact</h2>
             <p>
-              Phone: +49 123 4567890<br />
+              Phone: +49 177 9572891<br />
               Email: info@halguard.com
             </p>
             
-            <h2>Management</h2>
-            <p>
-              Dr. Alexander Schmidt (CEO)<br />
-              Sophia Wagner (CTO)
-            </p>
-            
-            <h2>Responsible for content according to § 55 Abs. 2 RStV</h2>
-            <p>
-              Dr. Alexander Schmidt<br />
-              HalGuard GmbH<br />
-              Nurnberger Straße 52<br />
-              67227 Frankenthal<br />
-              Germany
-            </p>
             
             <h2>EU Dispute Resolution</h2>
             <p>
