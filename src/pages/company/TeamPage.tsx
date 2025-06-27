@@ -75,7 +75,7 @@ const TeamPage = () => {
             in AI, cybersecurity, and synthetic media detection.
           </p>
         </AnimatedSection>
-
+      {/* 
         <div className="mb-20">
           <h2 className="text-2xl font-bold text-gray-900 mb-8">Leadership Team</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -115,7 +115,7 @@ const TeamPage = () => {
             ))}
           </div>
         </div>
-      {/* 
+
         <div className="mb-20">
           <h2 className="text-2xl font-bold text-gray-900 mb-8">Team Members</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
